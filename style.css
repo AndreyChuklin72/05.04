@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+.wrapper {
+ width: 1119px;
+ height: 415px;
+  font-family: "Hind Madurai", sans-serif;
+  display: flex;
+  
+  
+}
+.about{
+
+}
+
+.about__container{
+
+}
+
+.about__title {
+  font-size: 26px;
+  font-weight: 700;
+  font-weight: bold;
+  
+}
+.about__text {
+  font-size: 16px;
+  font-weight: 400;
+  opacity:0.7;
+ line-height:1.5;
+ 
+
+}
+.block{
+  display: flex;
+
+ align-items: center;
+}
+
+.about_zenaone {
+  font-size: 20px;
+  font-weight: 500;
+  text-decoration: line-through;
+  
+  
+
+  
+}
+.about_zena {
+  margin-right: 20px;
+  font-size: 26px;
+  font-weight: 500;
+  font-weight: bold;
+}
+
+.about__button {
+  background-color: #d64374;
+  border-radius: 5px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: white;
+  border: 0;
+}
+.img{
+    width: 580px;
+   
+
+}
